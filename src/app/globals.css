@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --primary: #ff0000;
+  --secondary: #065fd4;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0f0f0f;
+    --foreground: #ffffff;
+    --primary: #ff0000;
+    --secondary: #3ea6ff;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+.tool-card {
+  @apply bg-white dark:bg-zinc-800 rounded-lg shadow-lg p-6 transition-transform hover:scale-105;
+}
+
+.btn-primary {
+  @apply bg-[#ff0000] hover:bg-[#cc0000] text-white font-semibold py-2 px-6 rounded-full transition-colors;
+}
