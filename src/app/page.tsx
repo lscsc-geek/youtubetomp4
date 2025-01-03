@@ -30,7 +30,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="max-w-6xl mx-auto text-center mb-16">
         <h1 className="text-4xl sm:text-5xl font-bold mb-6">
-          How to Convert YouTube Video to MP4
+          How to Convert YouTube to MP4
         </h1>
         <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
           Learn how to convert and download YouTube videos to MP4 format with our recommended free tools. Fast, safe and easy to use.
@@ -192,7 +192,7 @@ export default function Home() {
         <div className="mb-12">
           <h3 className="text-xl font-semibold mb-4">How YouTube to MP4 Conversion Works</h3>
           <p className="text-gray-600 dark:text-gray-300 mb-4">
-            When you convert a YouTube video to MP4, the process involves:
+            When you convert a YouTube to MP4, the process involves:
           </p>
           <ol className="space-y-3 text-gray-600 dark:text-gray-300 list-decimal pl-5">
             <li>Extracting the video stream from YouTube&apos;s servers</li>

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "How to Convert YouTube Video to MP4 - Best Free Online Tools",
+  title: "How to Convert YouTube to MP4 - Best Free Online Tools",
   description: "Learn how to convert YouTube videos to MP4 format with our step-by-step guide. Discover the best tools and easy methods to download videos safely.",
   keywords: "how to convert youtube to mp4, youtube video downloader, youtube converter, download youtube videos, mp4 converter",
   metadataBase: new URL('https://youtubetomp4.vip'),
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "How to Convert YouTube Video to MP4 - Best Free Online Tools",
+    title: "How to Convert YouTube to MP4 - Best Free Online Tools",
     description: "Learn how to convert YouTube videos to MP4 format with our step-by-step guide. Discover the best tools and easy methods to download videos safely.",
     type: "website",
     url: 'https://youtubetomp4.vip',
